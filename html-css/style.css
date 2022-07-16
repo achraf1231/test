@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+#section_1 {
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/bg-intro-desktop.png);
+    background-color: hsl(0, 100%, 74%);
+    width: 100vw;
+    height: 100vh;
+}
+
+.left_side {
+    color: white;
+    margin-top: 140px;
+}
+
+.right_side {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.btnn {
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: none;
+}
+
+.try_btn {
+    background-color: hsl(248, 32%, 49%);
+    padding: 13px 98px 13px 98px ; 
+}
+
+.calim_btn {
+    background-color: hsl(154, 59%, 51%) ;
+    padding: 13px 163px 13px 163px ; 
+}
+
+.fin_text {
+    font-size: smaller;
+    color: gray;
+}
+
+.fin_text a {
+    text-decoration: none;
+    color: hsl(0, 100%, 74%);
+}
+
+input {
+    height: 50px;
+}
